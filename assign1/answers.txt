@@ -1,0 +1,28 @@
+-------Question 2--------
+Predictions:
+The exected throughput will be similar if not the same as Q1
+The expected latency will be longer since there are more linkages
+
+Measured Latency
+Measured Throughput
+
+
+-------Question 3--------
+Predictions: 
+---DOUBLE---
+Expecting it to be a little slower than just a single request sent
+---TRIPLE---
+Expecting TRIPLE to be slower than DOUBLE 
+
+---DOUBLE---
+Measured Latency
+Measured Throughput
+
+
+---TRIPLE---
+Measured Latency
+Measured Throughput
+
+
+
+

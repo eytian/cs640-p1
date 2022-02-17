@@ -1,0 +1,15 @@
+-------Question 2--------
+Predictions:
+The exected throughput will be similar if not the same as Q1
+The expected latency will be longer since there are more links
+
+Measured Latency
+Measured Throughput
+
+
+Q3:
+Predictions: 
+
+predictions for double: it will on average be a little slower than just one request being sent.
+predictions for triple: it will be slower on average than the doubles.
+
