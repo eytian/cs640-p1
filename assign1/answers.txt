@@ -1,6 +1,6 @@
 -------Question 2--------
 Predictions:
-The exected throughput will be similar if not the same as Q1
+The expected throughput will be similar if not the same as Q1
 The expected latency will be longer since there are more links
 
 Measured Latency: 80.995
@@ -26,7 +26,7 @@ Measured Throughput: 0.0165 Mbps
 
 -------Question 4--------
 Predictions:
-For both we think the results will be the same depending on number of switches
+For both we think the results will be the same depending on number of hosts
 
 Measured Latency: 
 h1-h4: 161.1
