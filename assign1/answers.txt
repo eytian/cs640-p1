@@ -3,8 +3,8 @@ Predictions:
 The exected throughput will be similar if not the same as Q1
 The expected latency will be longer since there are more linkages
 
-Measured Latency
-Measured Throughput
+Measured Latency: 80.995
+Measured Throughput: 0.01235Mbps
 
 
 -------Question 3--------
@@ -15,13 +15,13 @@ Expecting it to be a little slower than just a single request sent
 Expecting TRIPLE to be slower than DOUBLE 
 
 ---DOUBLE---
-Measured Latency
-Measured Throughput
+Measured Latency: 21.049 ms
+Measured Throughput: 0.049Mbps
 
 
 ---TRIPLE---
-Measured Latency
-Measured Throughput
+Measured Latency: 0.049 ms
+Measured Throughput: 0.0165 Mbps
 
 
 
