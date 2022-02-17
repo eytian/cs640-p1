@@ -1,7 +1,7 @@
 -------Question 2--------
 Predictions:
 The exected throughput will be similar if not the same as Q1
-The expected latency will be longer since there are more linkages
+The expected latency will be longer since there are more links
 
 Measured Latency: 80.995
 Measured Throughput: 0.01235Mbps
@@ -14,15 +14,26 @@ Expecting it to be a little slower than just a single request sent
 ---TRIPLE---
 Expecting TRIPLE to be slower than DOUBLE 
 
+
 ---DOUBLE---
 Measured Latency: 21.049 ms
 Measured Throughput: 0.049Mbps
-
 
 ---TRIPLE---
 Measured Latency: 0.049 ms
 Measured Throughput: 0.0165 Mbps
 
 
+-------Question 4--------
+Predictions:
+For both we think the results will be the same depending on number of switches
 
+Measured Latency: 
+h1-h4: 161.1
+h5-h6: 41.5
+Measured Throughput:
+h1-h4: 125KB at 0.00625Mbps
+h5-h6: 486KB at 0.0243Mbps 
 
+Reasonings: 
+We think there is a greater time directing the packets because having more than one host would create more congestion. 
